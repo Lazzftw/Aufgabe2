@@ -15,7 +15,7 @@ Die SAMPA-Notation von "Hochschule" : ho:xSu:l@
 
 ##  MBROLI 
 
-![MBROLI](Hochschule_Mboli.PNG)
+![MBROLI](Hochschule_Mboli.png)
 
 
 [hochschule_Mboli.wav](https://vocaroo.com/i/s1CptpcvBUj2)
@@ -23,7 +23,7 @@ Die SAMPA-Notation von "Hochschule" : ho:xSu:l@
 
 ##  “Hochschule” Wort mit MBROLI synthetisieren:
 
-![synthese](hochschule_synthese.PNG)
+![synthese](hochschule_synthese.png)
 
 
 [hochschule_synthese.wav](https://vocaroo.com/i/s1o51lwmUSQG)
@@ -31,7 +31,7 @@ Die SAMPA-Notation von "Hochschule" : ho:xSu:l@
 
 
 
-![synthesee](hochschule_mboli_sythese.PNG)
+![synthesee](hochschule_Mboli_sythese.png)
 
 
 ##  Analyse Satz “herzlich willkommen”
@@ -40,7 +40,7 @@ Die SAMPA-Notation von "Hochschule" : ho:xSu:l@
 [herzlichwillkomen.wav](https://vocaroo.com/i/s0IP3fKjfsuV)
 
 
-![praat](hw_praat.PNG)
+![praat](hw_praat.png)
 
 
 
@@ -52,7 +52,7 @@ Die SAMPA-Notation von "Hochschule" : ho:xSu:l@
 ![hw_synthese](hw_synthese.png)
 
 
-## Wie unterscheidet sich die Synthese-Wellenform vom Original? Wie klingt die Synthese im Vergleich zum Original?
+#### Wie unterscheidet sich die Synthese-Wellenform vom Original? Wie klingt die Synthese im Vergleich zum Original?
 
 Das Tempo ist perfekt.
 Der Original-Wellenform ist besser zu hören und zu verstehen und so klar .
