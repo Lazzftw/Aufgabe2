@@ -1,6 +1,6 @@
 ###  Ubung 1
 
-## Teil 1: Das Wavesignal
+##  Das Wavesignal
 Das gewählte Wort : hochschule
 
 Die SAMPA-Notation von "Hochschule" : ho:xSu:l@
@@ -9,6 +9,16 @@ Die SAMPA-Notation von "Hochschule" : ho:xSu:l@
 
 ![Spektrum](Hochschule.PNG)
 
-## Teil 2 : Analyse des Wortes
+## Analyse des Wortes
 
 ![Tabelle 1](tabelle.PNG)
+
+##  MBROLI 
+
+![MBROLI](Hochschule_Mboli.PNG)
+
+
+[hochschule_Mboli.wav](https://vocaroo.com/i/s1CptpcvBUj2)
+
+
+##  “Hochschule” Wort mit MBROLI synthetisieren:
