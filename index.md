@@ -31,7 +31,7 @@ Die SAMPA-Notation von "Hochschule" : ho:xSu:l@
 
 
 
-![synthesee](hochschule_Mboli_synthese.png)
+![synthesee](Hochschule_Mboli_synthese.png)
 
 
 ##  Analyse Satz “herzlich willkommen”
