@@ -44,7 +44,7 @@ Die SAMPA-Notation von "Hochschule" : ho:xSu:l@
 
 
 
-![praat](Tabelle 2.png)
+![praat](Tabelle_2.png)
 
 
 # "herzlich willkommen" mit MBROLI synthetisieren
