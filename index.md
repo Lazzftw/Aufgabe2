@@ -1,4 +1,4 @@
-### <center>Ubung 1</center>
+### <center>Ubung 2</center>
 
 ##  <center>Das Wavesignal</center>
 Das gewählte Wort : hochschule
